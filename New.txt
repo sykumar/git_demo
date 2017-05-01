@@ -1,5 +1,1 @@
-I changed the text using the vim command
-aaaaaa
-third line added
-fourth line added
-fifth last line
+New Text Overritten
